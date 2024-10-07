@@ -1,5 +1,5 @@
-function somarNumeros (a,b){
-    return a+b;
+function soma (a,b){
+    return a+b
 }
-console.log(somarNumeros(3,6))
-module.exports = somarNumeros;
+
+module.exports = soma 

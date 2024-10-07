@@ -1,5 +1,5 @@
-const soma = require('./soma')
+const soma = require('./soma');
 
-test('soma 1+2 deve ser igual a 3', ()=> {
-    expect(soma(1,2)).toBe(3);
-})
+test('soma 1 + 2 deve ser igual  a 3', () => {
+    expect(soma(1, 2)).toBe(3)
+});
